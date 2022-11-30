@@ -1,2 +1,1 @@
-# SpringBoot_emp
-emp_사원테이블
+# emp_사원테이블
