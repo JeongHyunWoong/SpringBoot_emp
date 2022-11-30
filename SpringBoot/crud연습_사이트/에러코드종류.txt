@@ -1,0 +1,11 @@
+에러 코드 종류(HTTP 에러 종류)
+
+1. 404 : 잘못된 경로
+ex) Controller에서 URL 오타
+
+2. 405 : http 메소드(get,post,delete,patch) 매칭실패
+ex) Controller에 get이라고 만들었는데, 프론트에서 post라고함
+
+3. 401 : 권한 없음
+
+4. 500 : Java에서 에러(SQL문법오타, 자바에서 문법 오류)
